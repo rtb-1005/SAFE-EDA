@@ -1,0 +1,9 @@
+hop_samples,arm,global_z,per_subject_z,delta,wins,wilcoxon_p
+1,safe_scratch,0.5015,0.6762,0.1747,12/15,0.00537
+1,safe_edabe_transfer,0.5794,0.6964,0.117,12/15,0.0181
+4,safe_scratch,0.4624,0.671,0.2087,13/15,0.00262
+4,safe_edabe_transfer,0.5722,0.7053,0.1331,12/15,0.0125
+60,safe_scratch,0.3665,0.6576,0.2911,14/15,0.00061
+60,safe_edabe_transfer,0.5933,0.7071,0.1138,12/15,0.0353
+240,safe_scratch,0.3781,0.619,0.2409,14/15,0.000854
+240,safe_edabe_transfer,0.5926,0.6616,0.0689,8/15,0.208

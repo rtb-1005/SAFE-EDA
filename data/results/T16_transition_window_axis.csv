@@ -1,0 +1,7 @@
+exclusion_radius_samples,arm,fraction_windows_kept,accuracy_after_exclusion,delta_vs_no_exclusion,wilcoxon_p
+0,safe_scratch,0.9995,0.6326,0.0001,
+0,safe_edabe_transfer,0.9995,0.7176,0.0001,
+60,safe_scratch,0.97,0.6358,0.0033,0.0413
+60,safe_edabe_transfer,0.97,0.7216,0.004,0.0034
+240,safe_scratch,0.8813,0.6477,0.0152,0.0256
+240,safe_edabe_transfer,0.8813,0.7363,0.0187,0.0001

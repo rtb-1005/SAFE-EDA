@@ -1,0 +1,13 @@
+dataset,normalization,class_name,treatment_fixed,treatment_broke,n_pairs,net_change_pp
+wearable,global_train,amusement,1101,1517,11979,-3.47
+wearable,global_train,baseline,1821,1431,11130,3.5
+wearable,global_train,stress,1527,1152,7950,4.72
+wesad,differenced,amusement,6138,6534,56145,-0.71
+wesad,differenced,baseline,25266,13685,200577,5.77
+wesad,differenced,stress,5683,5853,108837,-0.16
+wesad,global_train,amusement,5963,9296,56145,-5.94
+wesad,global_train,baseline,39666,15673,200577,11.96
+wesad,global_train,stress,15621,4960,108837,9.8
+wesad,per_subject_z,amusement,8155,5589,56145,4.57
+wesad,per_subject_z,baseline,14156,13689,200577,0.23
+wesad,per_subject_z,stress,6045,4044,108837,1.84

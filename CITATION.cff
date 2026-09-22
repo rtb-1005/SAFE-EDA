@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use SAFE-EDA, please cite the paper and this software."
+type: software
+title: "SAFE-EDA: Artifact Annotations Substitute for Per-User Calibration"
+version: 1.0.0
+authors:
+  - family-names: Chai
+    given-names: Haochen
+    orcid: "https://orcid.org/0009-0007-4785-2912"
+  - family-names: Luo
+    given-names: Xinbi
+    orcid: "https://orcid.org/0009-0002-3406-884X"
+  - family-names: Liu
+    given-names: Zining
+    orcid: "https://orcid.org/0009-0002-5403-0478"
+  - family-names: Jiang
+    given-names: Fangfang
+license: MIT
+doi: 10.5281/zenodo.22920792
+repository-code: "https://github.com/rtb-1005/SAFE-EDA"
+url: "https://doi.org/10.5281/zenodo.22920792"
+preferred-citation:
+  type: unpublished
+  title: "Artifact Annotations Substitute for Per-User Calibration: SAFE-EDA and a Calibration-Controlled Evaluation of Wrist-EDA Affect Recognition"
+  authors:
+    - family-names: Chai
+      given-names: Haochen
+      orcid: "https://orcid.org/0009-0007-4785-2912"
+    - family-names: Luo
+      given-names: Xinbi
+      orcid: "https://orcid.org/0009-0002-3406-884X"
+    - family-names: Liu
+      given-names: Zining
+      orcid: "https://orcid.org/0009-0002-5403-0478"
+    - family-names: Jiang
+      given-names: Fangfang
+  year: 2026

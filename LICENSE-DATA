@@ -1,0 +1,16 @@
+SPDX-License-Identifier: CC-BY-4.0
+
+Copyright (c) 2026 Haochen Chai, Xinbi Luo, Zining Liu, and Fangfang Jiang.
+
+The derived numerical data in data/metrics.zip and data/results/, the study
+coding in data/literature/study_coding.csv, and the coding fields in
+data/literature/source_quotes.csv are licensed under the Creative Commons
+Attribution 4.0 International License:
+https://creativecommons.org/licenses/by/4.0/
+
+Attribution must identify the authors, the associated paper and repository,
+provide the license link, and indicate any changes. This license does not
+grant rights to the third-party source datasets listed in README.md or to the
+quoted passages in data/literature/source_quotes.csv. Those passages remain
+attributed to their original publications and are included only to support
+verification of the reported field codes.

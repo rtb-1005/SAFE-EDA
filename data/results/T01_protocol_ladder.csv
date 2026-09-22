@@ -1,0 +1,7 @@
+dataset,evaluation_split,scratch_macro_f1,transfer_macro_f1,n_scratch,n_transfer
+wesad,random_window,0.9508,0.9966,3,3
+wesad,fixed_subject_holdout,0.5258,0.4787,3,3
+wesad,loso,0.5015,0.5794,45,45
+wearable,random_window,0.5964,0.666,3,3
+wearable,fixed_subject_holdout,0.4331,0.4882,24,18
+wearable,loso,0.5128,0.5317,78,78

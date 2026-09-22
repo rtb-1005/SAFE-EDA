@@ -1,0 +1,9 @@
+field,studies,percent,ci95_percent
+Window length,26/50,52,"[39,65]"
+Window hop,15/50,30,"[19,44]"
+Explicit overlap,6/50,12,"[6,24]"
+Split type,28/50,56,"[42,69]"
+LOSO described,13/50,26,"[16,40]"
+Metric aggregation,11/50,22,--
+Normalization statistics source,5/50,10,"[4,21]"
+Evaluated-user statistics used,4/50,8,--

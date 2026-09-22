@@ -1,0 +1,4 @@
+contrast,delta,wins,wilcoxon_p,cohens_dz,share_of_total_gain
+transfer - scratch (total gain),0.0779,13/15,0.00116,0.931,100.0
+shuffled - scratch (pretraining itself),0.0455,12/15,0.03015,0.592,58.3
+transfer - shuffled (artifact label semantics),0.0325,13/15,0.00427,0.872,41.7

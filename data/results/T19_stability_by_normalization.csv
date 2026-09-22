@@ -1,0 +1,3 @@
+normalization,n_hops,scratch_range,scratch_sd,transfer_range,transfer_sd,sd_ratio_scratch_over_transfer
+global_train,4,0.135,0.0655,0.0211,0.0103,6.34
+per_subject_z,4,0.0572,0.0258,0.0455,0.0212,1.22

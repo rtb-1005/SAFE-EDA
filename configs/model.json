@@ -1,0 +1,49 @@
+{
+  "source_input": {
+    "sample_rate_hz": 32.0,
+    "window_samples": 256
+  },
+  "target_input": {
+    "sample_rate_hz": 4.0,
+    "window_samples": 240
+  },
+  "model": {
+    "model_dim": 64,
+    "num_blocks": 6,
+    "depthwise_kernel_size": 7,
+    "receptive_field_seconds": [
+      0.5,
+      1.0,
+      2.0,
+      4.0
+    ],
+    "gate_hidden_dim": 32,
+    "dropout": 0.1,
+    "head_dropout": 0.2,
+    "drop_path_max": 0.1,
+    "tonic_knot_seconds": 2.0,
+    "tonic_smoothness": 10.0,
+    "kernel_support_seconds": 4.0,
+    "tau_rise_seconds": 0.75,
+    "tau_decay_seconds": 2.5,
+    "ista_iterations": 20,
+    "ista_step_size": 0.9,
+    "driver_l1": 0.02,
+    "confidence_kappa": 1.0
+  },
+  "training": {
+    "optimizer": "AdamW",
+    "seeds": [
+      1005,
+      2004,
+      2026
+    ],
+    "artifact_epochs": 12,
+    "target_epochs": 12,
+    "batch_size": 128,
+    "learning_rate": 0.001,
+    "weight_decay": 0.0001,
+    "gradient_clip_norm": 1.0,
+    "score_based_early_stop": false
+  }
+}
